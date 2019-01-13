@@ -1,4 +1,4 @@
-<img src="./images/joytan.png" align="right" width="90" height="90" title="logo">
+<img src="./images/joytan.png" align="right" width="60" height="60" title="logo">
 
 # Supplemental materials for fellow language learners
 
