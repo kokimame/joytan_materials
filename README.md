@@ -3,6 +3,9 @@
 # Supplemental materials from Joytan App
 
 ### *Under construction*
+- [2019, Mar 16] <a href="https://kokimame.github.io/joytan_materials/jp/genki_2.pdf" target="_blank">Kanji sheet for Genki 2</a> (See <a href="https://www.youtube.com/watch?v=VLVgDKaY-1s">video</a>)
+- [2019, Mar 16] <a href="https://kokimame.github.io/joytan_materials/jp/genki_1.pdf" target="_blank">Kanji sheet for Genki 1</a> (See <a href="https://www.youtube.com/watch?v=Ov6mhICQPyc">video</a>)
+- [2019, Mar 16] <a href="https://kokimame.github.io/joytan_materials/jp/genki_1_2.pdf" target="_blank">Kanji sheet for Genki 1 & 2</a> (See <a href="https://www.youtube.com/watch?v=ryzD3pqJfbI">video</a>)
 - [2019, Mar 16] <a href="https://kokimame.github.io/joytan_materials/jp/jp_food.pdf" target="_blank">Learn 400 Japanese vocabs about food</a> (See <a href="https://youtu.be/IdZJ-C3f5xI">video</a>)
 - [2019, Mar 15] <a href="https://kokimame.github.io/joytan_materials/jp/jp_body.pdf" target="_blank">60 Body Parts in Japanese</a> (See <a href="https://youtu.be/-6rRutC8TA8">video</a>)
 - [2019, Mar 15] <a href="https://kokimame.github.io/joytan_materials/jp/jp_777.pdf" target="_blank">Learn 777 Japanese basic words!</a> (See <a href="https://www.youtube.com/watch?v=y2PvP60mfKQ">video</a>)
