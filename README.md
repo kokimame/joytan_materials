@@ -3,7 +3,7 @@
 # Supplemental materials from Joytan App
 
 ### *Under construction*
-- [2019, Mar 17] <a href="https://kokimame.github.io/joytan_materials/jp/jp_250_adjectives.pdf" target="_blank">1400 Japanese Vocabularies and Phrases</a> (See <a href="https://youtu.be/kxbUbBFdfJE">video</a>)
+- [2019, Mar 17] <a href="https://kokimame.github.io/joytan_materials/jp/jp_250_adjectives.pdf" target="_blank">Basic 250 Japanese Adjectives You Must Know!</a> (See <a href="https://youtu.be/kxbUbBFdfJE">video</a>)
 - [2019, Mar 16] <a href="https://kokimame.github.io/joytan_materials/jp/jp_1400.pdf" target="_blank">1400 Japanese Vocabularies and Phrases</a> (See <a href="https://www.youtube.com/watch?v=Vz09Kxs2nj4">video</a>)
 - [2019, Mar 16] <a href="https://kokimame.github.io/joytan_materials/jp/genki_2.pdf" target="_blank">Kanji sheet for Genki 2</a> (See <a href="https://www.youtube.com/watch?v=VLVgDKaY-1s">video</a>)
 - [2019, Mar 16] <a href="https://kokimame.github.io/joytan_materials/jp/genki_1.pdf" target="_blank">Kanji sheet for Genki 1</a> (See <a href="https://www.youtube.com/watch?v=Ov6mhICQPyc">video</a>)
