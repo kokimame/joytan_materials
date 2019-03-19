@@ -3,6 +3,7 @@
 # Supplemental materials from Joytan App
 
 ### *Under construction*
+- [2019, Mar 19] <a href="https://kokimame.github.io/joytan_materials/jp/sen_beta2.pdf" target="_blank">100 Short Useful Sentences with Basic Vocabs in Japanese</a> (See <a href="https://youtu.be/HTmfUyQp09E">video</a>)
 - [2019, Mar 18] <a href="https://kokimame.github.io/joytan_materials/jp/sen_beta.pdf" target="_blank">100 Short Sentences with Basic Vocabularies</a> (See <a href="https://youtu.be/UkOV0ZE1PnE">video</a>)
 - [2019, Mar 17] <a href="https://kokimame.github.io/joytan_materials/jp/jp_250_adjectives.pdf" target="_blank">Basic 250 Japanese Adjectives You Must Know!</a> (See <a href="https://youtu.be/kxbUbBFdfJE">video</a>)
 - [2019, Mar 16] <a href="https://kokimame.github.io/joytan_materials/jp/jp_1400.pdf" target="_blank">1400 Japanese Vocabularies and Phrases</a> (See <a href="https://www.youtube.com/watch?v=Vz09Kxs2nj4">video</a>)
