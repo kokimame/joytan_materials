@@ -3,6 +3,7 @@
 # Supplemental materials from Joytan App
 
 ### *Under construction*
+- [2019, Apr 02] <a href="https://kokimame.github.io/joytan_materials/jp/ja_230_adj_sent.pdf" target="_blank">Exercise: Put 230 Important Japanese Adjectives in Practice</a> (See <a href="https://youtu.be/FRFDrSSnOhQ">video</a>)
 - [2019, Mar 24] <a href="https://kokimame.github.io/joytan_materials/jp/jp_n3.pdf" target="_blank">Learn ALL 1800 JLPT N3 Vocabulary Perfect!</a> (See <a href="https://youtu.be/5mjcW4AUqfc">video</a>)
 - [2019, Mar 24] <a href="https://kokimame.github.io/joytan_materials/jp/jp_category.pdf" target="_blank">Learn and Categorize 720 Common Japanese words</a> (See <a href="https://youtu.be/0TqHWambXf8">video</a>)
 - [2019, Mar 23] <a href="https://kokimame.github.io/joytan_materials/jp/n4_585.pdf" target="_blank">Learn 585 basic words for JLPT/N4</a> (See <a href="https://youtu.be/NuZjnZ_nEDE">video</a>)
